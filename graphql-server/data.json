@@ -1,0 +1,264 @@
+{
+    "results": [{
+        "gender": "female",
+        "name": {
+            "title": "ms",
+            "first": "caitlin",
+            "last": "boyd"
+        },
+        "location": {
+            "street": "8734 park avenue",
+            "city": "stevenage",
+            "state": "avon",
+            "postcode": "L4 2WS",
+            "coordinates": {
+                "latitude": "12.9735",
+                "longitude": "92.6735"
+            },
+            "timezone": {
+                "offset": "-11:00",
+                "description": "Midway Island, Samoa"
+            }
+        },
+        "email": "caitlin.boyd@example.com",
+        "login": {
+            "uuid": "21c0d9c0-9dde-4392-b635-f18c4c7dc8f8",
+            "username": "greenzebra209",
+            "password": "codered",
+            "salt": "Z14mLhQx",
+            "md5": "762c50769aaec0005e9c717dd8868514",
+            "sha1": "e7b0b31762aaf3b7800fc7e76438e70e2ecaa92e",
+            "sha256": "32c9892239c32319d956ef4c0fe695a748d4b0f7b9166597d710914bc6bab4e3"
+        },
+        "dob": {
+            "date": "1971-04-27T06:29:55Z",
+            "age": 47
+        },
+        "registered": {
+            "date": "2015-02-21T18:48:49Z",
+            "age": 3
+        },
+        "phone": "013873 87258",
+        "cell": "0771-176-552",
+        "id": {
+            "name": "NINO",
+            "value": "AA 94 04 56 I"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/26.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+        },
+        "nat": "GB"
+    }, {
+        "gender": "female",
+        "name": {
+            "title": "miss",
+            "first": "عسل",
+            "last": "موسوی"
+        },
+        "location": {
+            "street": "7461 آیت‌الله مدنی",
+            "city": "بوشهر",
+            "state": "اردبیل",
+            "postcode": 88306,
+            "coordinates": {
+                "latitude": "-5.9795",
+                "longitude": "-28.7096"
+            },
+            "timezone": {
+                "offset": "-9:00",
+                "description": "Alaska"
+            }
+        },
+        "email": "عسل.موسوی@example.com",
+        "login": {
+            "uuid": "04810e3f-0897-4b62-bdc2-96ab9865eb38",
+            "username": "silverrabbit745",
+            "password": "fusion",
+            "salt": "MpZ1YguW",
+            "md5": "870303239460b32e93f17724497939e4",
+            "sha1": "75e25849fc3d5d1793771b74f8b985fb10f4165d",
+            "sha256": "bcdbb9147d63a440ee52b61dbb304ca77e3b1b303ead8613c24512b6c42e05ad"
+        },
+        "dob": {
+            "date": "1982-01-19T16:33:51Z",
+            "age": 36
+        },
+        "registered": {
+            "date": "2015-06-06T03:25:53Z",
+            "age": 3
+        },
+        "phone": "067-03498258",
+        "cell": "0939-928-8170",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/35.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+        },
+        "nat": "IR"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "karl",
+            "last": "stewart"
+        },
+        "location": {
+            "street": "9772 thornridge cir",
+            "city": "indianapolis",
+            "state": "alabama",
+            "postcode": 42904,
+            "coordinates": {
+                "latitude": "54.7294",
+                "longitude": "-104.9586"
+            },
+            "timezone": {
+                "offset": "-1:00",
+                "description": "Azores, Cape Verde Islands"
+            }
+        },
+        "email": "karl.stewart@example.com",
+        "login": {
+            "uuid": "247228d0-0498-4873-ad30-8ed11ce8dce5",
+            "username": "organicpeacock392",
+            "password": "lara",
+            "salt": "6v8fBLRW",
+            "md5": "541b62e4a7330593e7155ed736106c40",
+            "sha1": "61c5312fd3a497018879a8dd5587bde6e88f04c4",
+            "sha256": "6c0c21afb89474ac82178b4e31c518cfc5aa57b46ce0e6760eeb62eebd1a4879"
+        },
+        "dob": {
+            "date": "1944-09-28T11:16:20Z",
+            "age": 73
+        },
+        "registered": {
+            "date": "2015-05-04T16:37:46Z",
+            "age": 3
+        },
+        "phone": "(644)-872-0388",
+        "cell": "(280)-235-8208",
+        "id": {
+            "name": "SSN",
+            "value": "816-55-1375"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/48.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+        },
+        "nat": "US"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "سپهر",
+            "last": "محمدخان"
+        },
+        "location": {
+            "street": "8764 شهید محمد منتظری",
+            "city": "سبزوار",
+            "state": "ایلام",
+            "postcode": 37250,
+            "coordinates": {
+                "latitude": "-89.5108",
+                "longitude": "58.2078"
+            },
+            "timezone": {
+                "offset": "-1:00",
+                "description": "Azores, Cape Verde Islands"
+            }
+        },
+        "email": "سپهر.محمدخان@example.com",
+        "login": {
+            "uuid": "f510cf1d-21b7-4cfc-b102-9b7a910b98cb",
+            "username": "lazypanda401",
+            "password": "tophat",
+            "salt": "j11opxpg",
+            "md5": "4984d0fc1c707384da5b2ce0e6ba7767",
+            "sha1": "407ad8e5d0009416bb78e618797e4683af1bc5db",
+            "sha256": "0a72792bd3428898991b3d5c368346bbb80c75752b8060bb7744d8a06c051e25"
+        },
+        "dob": {
+            "date": "1978-06-18T00:15:44Z",
+            "age": 40
+        },
+        "registered": {
+            "date": "2015-09-23T06:48:45Z",
+            "age": 2
+        },
+        "phone": "046-76517489",
+        "cell": "0918-235-7793",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/62.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+        },
+        "nat": "IR"
+    }, {
+        "gender": "female",
+        "name": {
+            "title": "ms",
+            "first": "anette",
+            "last": "frieß"
+        },
+        "location": {
+            "street": "buchenweg 158",
+            "city": "werdohl",
+            "state": "bayern",
+            "postcode": 44104,
+            "coordinates": {
+                "latitude": "-7.6089",
+                "longitude": "79.7395"
+            },
+            "timezone": {
+                "offset": "0:00",
+                "description": "Western Europe Time, London, Lisbon, Casablanca"
+            }
+        },
+        "email": "anette.frieß@example.com",
+        "login": {
+            "uuid": "13c12ca8-8467-43da-8241-7ed5986ee526",
+            "username": "crazybutterfly493",
+            "password": "tommy",
+            "salt": "cQ67eG3m",
+            "md5": "ed866740721200c132207a82af761fc4",
+            "sha1": "4c65ffcd19b3293cc0d38b5807b1d58ddbbc1292",
+            "sha256": "4b053cb8dce7eb827dd52ca50a8da447717718db846fb3e6e11db818c2f6c0f5"
+        },
+        "dob": {
+            "date": "1956-11-29T14:58:26Z",
+            "age": 61
+        },
+        "registered": {
+            "date": "2003-12-04T04:08:01Z",
+            "age": 14
+        },
+        "phone": "0948-3950998",
+        "cell": "0176-9610863",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/41.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+        },
+        "nat": "DE"
+    }],
+    "info": {
+        "seed": "822f59ef6f8bcd0f",
+        "results": 5,
+        "page": 1,
+        "version": "1.2"
+    }
+}
